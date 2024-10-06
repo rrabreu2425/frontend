@@ -1,0 +1,13 @@
+.container-form-addPatient{
+    display: flex;
+    width: 250px;
+    height: 450px;    
+    justify-content: center;
+    align-items: center;
+    
+}
+.container-principal-addPatients{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,27 @@
+.ImgLogin {
+    width: 800px;
+    height: 400px
+}
+
+.Container {
+    display: flex;
+    /* Enables flexbox */
+    flex-direction: column;
+    /* Aligns items vertically */
+    justify-content: center;
+    /* Centers items vertically */
+    align-items: center;
+    /* Centers items horizontally */
+    height: 100vh;
+    /* Optional: Full viewport height */
+}
+
+.ButtonLogin {
+    padding: "10px 20px";
+    backgroundColor: "#4285F4";
+    color: "#fff";
+    border: "none";
+    borderRadius: "5px";
+    cursor: "pointer";
+    fontSize: "16px"
+}
